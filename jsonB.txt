@@ -1,6 +1,6 @@
 [{
   "name" : "Syed",
-  "gender" : "Male"
+  "gender" : "Male Person"
 },
 {
   "name" : "Saurav",
