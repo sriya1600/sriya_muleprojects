@@ -1,0 +1,18 @@
+<employees>
+<name first="George" last="Washington">
+<gender>M</gender>
+<role>dev</role>
+</name>
+<name first="James" last="Madison">
+<gender>M</gender>
+<role>dev</role>
+</name>
+<name first="Susan" last="Armstrong">
+<gender>F</gender>
+<role>lead</role>
+</name>
+<name first="Rosa" last="Hemingway">
+<gender>F</gender>
+<role>lead</role>
+</name>
+</employees>
